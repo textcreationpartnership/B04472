@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two noble converts, or, The Earl of Marlborough and the Earl of Rochester their dying requests and remonstrance to the atheists and debauchees of this age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04472</idno>
+            <idno type="STC">Wing M690</idno>
+            <idno type="STC">ESTC R180370</idno>
+            <idno type="EEBO-CITATION">52614782</idno>
+            <idno type="OCLC">ocm 52614782</idno>
+            <idno type="VID">175968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175968)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two noble converts, or, The Earl of Marlborough and the Earl of Rochester their dying requests and remonstrance to the atheists and debauchees of this age.</title>
+                  <author>Marlborough, James Ley, Earl of, 1618-1665. Letter to Sir H.P.</author>
+                  <author>Rochester, John Wilmot, Earl of, 1647-1680. Remonstrance.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by J.S.,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglican converts --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="documents">
+            <pb facs="tcp:175968:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE TWO NOBLE CONVERTS OR THE Earl of <hi>MARLBORO<g ref="char:V">Ʋ</g>GH</hi> and the Earl of <hi>ROCHESTER</hi> their Dying Requeſts and Remonſtrance, To the ATHEISTS and DEBAUCHERS of this Age.</head>
+            <div type="letter">
+               <head>The Earl of <hi>Malborough</hi>'s Letter to Sir <hi>H. P.</hi> a little before the Sea-Fight, in 1665.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Believe the goodneſs of your Nature, and the friend<g ref="char:EOLhyphen"/>ſhip you have alwayes born me, will receive with kindneſs the laſt office of your Friend. I am in health enough of Body, and (through the mercy of God in Jeſus Chriſt) well diſpoſed in Mind. This I premiſe, that you may be ſatisfied that what I write, proceeds not from any phantaſtick terrour of Mind, but from a ſober reſolution of what concerns my ſelf, and earneſt deſire to do you more good after my Death, than mine Example (God of his Mer<g ref="char:EOLhyphen"/>cy pardon the badneſs of it) in my life-time may do you harm. I will not ſpeak ought of the vanity of this World; your own Age and Experience will ſave that labour: But there is a certain thing that goeth up and down the World, called <hi>Religion,</hi> dreſſed and pretended phantaſtically, and to purpoſes bad enough, which yet by ſuch evil dealing loſeth not its Beeing: The great good God hath not left it without a Witneſs, more or leſs, ſooner or later, in every man's Boſom, to direct us in the purſuit of it; and for the avoiding of thoſe inextricable diſquiſitions and entanglements our own frail Reaſon would perplex us withal, God in his in<g ref="char:EOLhyphen"/>finite Mercy hath given us his Holy Word, in which, as there are many things hard to be underſtood, ſo there is enough plain and eaſie, to quiet our Minds, and direct us concerning our future Beeing. I confeſs to God and you, I have been a great neglecter, and (I fear) deſpiſer of it: (God of his infinite Mercy pardon me the dreadful Fault.) But when I retired my ſelf from the noiſe and deceitful Va<g ref="char:EOLhyphen"/>nity of the World, I found no true comfort in any other re<g ref="char:EOLhyphen"/>ſolution, than what I had from thence: I commend from the bottom of my Heart the ſame to your (I hope) happy uſe. Dear Sir <hi>H.</hi> let us be more generous, than to believe we die as the Beaſts that periſh; but with a Chriſtian, Manly, Brave Reſolution, look to what is Eternal. I will not trouble you further. The only great God, and holy God, Father, Son, and Holy Ghoſt, direct you to an happy end of your Life, and ſend us a joyful Reſurrection. So prays,</p>
+               <closer>
+                  <signed>Your true Friend, MARLBORO<g ref="char:V">Ʋ</g>GH.</signed>
+                  <dateline>Old <hi>James,</hi> near the Coaſt of <hi>Holland,</hi> 
+                     <date>April 24. 1665.</date>
+                  </dateline>
+               </closer>
+               <argument>
+                  <p>The Reader, if he pleaſe, may ſee more Inſtances of the like nature, in a Book called, <hi>Fair Warning to a careleſs World.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="letter">
+               <head>The Earl of <hi>Rocheſter</hi>'s Remonſtrance, Signed with his own Hand a little before his Death.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Or the benefit of all thoſe whom I have drawn into Sin by my Example and Encouragement, I leave to the World this my laſt Declaration, which I deliver in the preſence of the great God, who knows the ſecrets of all Hearts, and before whom I am now appearing to be judged.</p>
+               <p>That from the bottom of my Soul I deteſt and abhor the whole courſe of my former wicked Life; that I think I can never ſufficiently admire the goodneſs of God, who has given me a true ſenſe of my pernicious Opinions and vile Practices, by which I have hitherto lived without Hope, and without God in the World; have been an Open Enemy to Jeſus Chriſt, doing the utmoſt deſpite to the Holy Spirit of Grace. And that the greateſt teſtimony of my Charity to ſuch is, to warn them in the Name of God, and as they regard the welfare of their Immortal Souls, no more to deny his Being, or his Provi<g ref="char:EOLhyphen"/>dence, or deſpiſe his Goodneſs; no more to make a mock of Sin, or contemn the pure and excellent Religion of my ever bleſſed Redeemer, through whoſe Merits alone, I, one of the Greateſt of Sinners, do yet hope for Mercy and Forgivenneſs. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>J. ROCHESTER.</signed>
+               </closer>
+               <postscript>
+                  <p>Declared and Sign'd in the Preſence of</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Anne Rocheſter.</item>
+                           <item>Robert Parſons.</item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <date>June 19. 1680.</date>
+                     </dateline>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="anecdote">
+               <p>
+                  <hi>Beſides which, take one memorable Saying of his, on his Death-Bed.</hi> One day at an Atheiſtical Meeting, at a Per<g ref="char:EOLhyphen"/>ſon of Quality's, I undertook to manage the Cauſe, and was the principal Diſputant againſt God and Piety, and for my performances received the Applauſe of the whole Company; upon which my Mind was terribly ſtruck, and immediately replied thus to my ſelf: Good God! that a Man, that walks upright, that ſees the wonderful Works of God, and has the uſe of his Senſes and Reaſon, ſhould uſe them to the defying of his Creator! But though this was a good beginning towards my Converſion, to find my Conſcience touch'd for my Sins, yet it went off again: nay, all my Life long I had a ſecret va<g ref="char:EOLhyphen"/>lue and reverence for an honeſt Man, and lov'd Morality in others. But I had form'd an odd Scheme of Religion to my ſelf, which would ſalve all that God or Conſcience might force upon me; yet I was not ever well reconciled to the buſineſs of Chriſtianity, nor had that reverence for the Goſpel of Chriſt as I ought to have.</p>
+               <argument>
+                  <p>With ſeveral other like Expreſſions, which may be ſeen in the Sermon Preached at his Funeral.</p>
+               </argument>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-Printed by <hi>J. S.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
